@@ -37,7 +37,7 @@ nav.navbar
     width: 75%;
 }
 
-.navbar-brand .logo h1, .footer-logo h1{color: white; font-weight: 900; margin-bottom: 0px; line-height: 25px;  text-align: center;   background: linear-gradient(to right, var(--violet-color) 0%, var(--blue-color) 50%, var(--yellow-color) 100%);
+.navbar-brand .logo h1, .footer-logo h1{color: white; font-weight: 900; margin-bottom: 0px; line-height: 35px;  text-align: center;   background: linear-gradient(to right, var(--violet-color) 0%, var(--blue-color) 50%, var(--yellow-color) 100%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;}
 .navbar-brand .logo p, .footer-logo p{color: white; font-weight: 300; font-size: 16px; text-transform: uppercase; text-align: center; margin-bottom: 0px;}
